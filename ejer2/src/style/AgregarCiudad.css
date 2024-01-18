@@ -1,0 +1,23 @@
+.city-input-form {
+    margin-bottom: 20px;
+  }
+  
+  .city-input {
+    padding: 8px;
+    border: 2px solid #A52A2A; /* Un color café para el borde */
+    border-radius: 4px;
+  }
+  
+  .add-btn {
+    padding: 8px 16px;
+    border: none;
+    background-color: #4CAF50; /* Un color verde para el botón */
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-btn:hover {
+    background-color: #45a049;
+  }
+  

@@ -1,0 +1,27 @@
+.city-list {
+    list-style-type: disc; /* Asegúrate de que sea 'disc' para puntos */
+    padding-left: 20px; /* Agrega espacio para que los puntos no se oculten */
+  }
+  
+  .city-item {
+    margin: 8px 0;
+    padding: 4px 8px;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .delete-btn {
+    margin-left: auto; /* Asegura que el botón se alinee a la derecha */
+    padding: 4px 8px;
+    background-color: #f44336; /* Color rojo para el botón */
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .delete-btn:hover {
+    background-color: #d32f2f;
+  }
+  
